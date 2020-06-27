@@ -44,3 +44,43 @@ body {
 .icons a:hover {
     opacity: 0.7;
 }
+
+@media (max-width: 465px) {
+  .badge {
+    width: 220px;
+    height: 220px;
+  }
+  .badge p {
+    font-size: 38px;
+    padding-top: 90px;
+  }
+  .written h1 {
+    font-size: 35px;
+  }
+  .written span {
+    font-size: 16px;
+  }
+  .icons {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 375px) {
+  .badge {
+    width: 200px;
+    height: 200px;
+  }
+  .badge p {
+    font-size: 33px;
+    padding-top: 80px;
+  }
+  .written h1 {
+    font-size: 30px;
+  }
+  .written span {
+    font-size: 15px;
+  }
+  .icons {
+    font-size: 30px;
+  }
+}
