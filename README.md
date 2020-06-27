@@ -1,4 +1,5 @@
 # portfolio
+# Go to sarthakvdev.github.io/portfolio/ to check it out
 Portfolio of Sarthak Verma
 
 It's my minor project of a portfolio.
