@@ -1,6 +1,5 @@
-# portfolio
-# Go to sarthakvdev.github.io/portfolio/ to check it out
-#### Portfolio of Sarthak Verma
+# Portfolio of Sarthak Verma
+## [Click here](sarthakverma.netlify.com) to check it out!
 
-- It's Portfolio Project.
-- Currently made with the use of HTML, CSS and JavaScript.
+- It's my Portfolio Project
+- Currently made using HTML, CSS and JavaScript
